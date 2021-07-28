@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "csv-to-and-from-array": "^0.1.0"
+  }
+}
